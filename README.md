@@ -35,8 +35,8 @@ Para clonar e instalar este proyecto, sigue estos pasos:
 3. Instala las dependencias:
 
     npm install
-    # o si usas yarn
-    yarn install
+        # o si usas yarn
+        yarn install
 
 ## 🚀 Ejecución del Proyecto
 
