@@ -1,8 +1,50 @@
-# React + Vite
+# Color Picker - Vite React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto de un **Color Picker** (selector de color) desarrollado con **React** y **Vite**. Permite a los usuarios seleccionar un color a través de una interfaz sencilla y visualizar el código hexadecimal del color seleccionado.
 
-Currently, two official plugins are available:
+## 🌐 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¡Prueba el proyecto en vivo! 🎉  
+[**Color Picker React**](https://emmalanza.github.io/color-picker-react/)
+
+## 👩🏻‍💻 Tecnologías
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+
+## 📦 Requisitos
+
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- [Node.js](https://nodejs.org/) (versión 12 o superior)
+
+## 💻 Instalación
+
+Para clonar e instalar este proyecto, sigue estos pasos:
+
+1. Clona este repositorio a tu máquina local:
+
+   ```bash
+   git clone https://github.com/emmalanza/color-picker-react.git
+
+2. Accede al directorio del proyecto:
+
+    cd color-picker-react
+
+3. Instala las dependencias:
+
+    npm install
+    # o si usas yarn
+    yarn install
+
+## 🚀 Ejecución del Proyecto
+
+Una vez que las dependencias estén instaladas, puedes iniciar el servidor de desarrollo local:
+
+    npm run dev
+    # o si usas yarn
+    yarn dev
+
+
+
